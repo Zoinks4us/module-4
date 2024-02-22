@@ -1,0 +1,21 @@
+
+.top {
+  display: inline;
+  
+}
+#view-score{
+ margin-left: 10%;
+}
+#timer{
+  margin-right: 10%;
+  float: right;
+}
+
+.qna{
+  text-align: center;
+  margin-top: 12%;
+
+}
+#answer{
+  
+}
