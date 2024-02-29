@@ -1,7 +1,7 @@
 
 .top {
   display: inline;
-  
+ 
 }
 #view-score{
  margin-left: 10%;
@@ -16,6 +16,22 @@
   margin-top: 12%;
 
 }
-#answer{
-  
+#answer1, #answer2, #answer3{
+  display: none;
+  align-items: center;
+  text-align: center;
+  margin-left: 50%;
+  font-size: 22px;
+  background-color: aqua;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#feedback{
+  display: none;
+}
+#nextButton{
+  display: none;
+  float: right;
+  margin-top: 5%;
+  margin-right: 10%;
 }
