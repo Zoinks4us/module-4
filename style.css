@@ -26,12 +26,17 @@
   margin-top: 10px;
   margin-bottom: 10px;
 }
-#feedback{
-  display: none;
-}
+
 #nextButton{
-  display: none;
+ 
   float: right;
   margin-top: 5%;
   margin-right: 10%;
 }
+#save-score, #nickname, #feedback, #nextButton{
+  display: none;
+}
+li{
+  list-style: none;
+}
+
